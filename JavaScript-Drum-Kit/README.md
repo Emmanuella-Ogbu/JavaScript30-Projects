@@ -3,8 +3,7 @@
 An interactive drum kit built with vanilla JavaScript as part of the JavaScript30 challenge. This project allows users to play drum sounds using their keyboard, creating a fun and engaging way to practice DOM manipulation and event handling.
 
 ## 🚀 Live Demo
-
-👉 (Add your deployed link here, e.g., GitHub Pages or Netlify)
+- Github Pages: (https://emmanuella-ogbu.github.io/JavaScript30-Projects/JavaScript-Drum-Kit)
 
 ## 📌 Features
 - Play different drum sounds using keyboard keys
